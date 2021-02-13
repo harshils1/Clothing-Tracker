@@ -1,0 +1,28 @@
+amount of Pants objects (this number should match the number of Pants objects in this data)
+amount of Shirts objects (this number should match the number of Shirts objects in this data)
+amount of Shoes objects (this number should match the number of Shoes objects in this data)
+Pant 1 Brand
+Pant 1 Color
+Pant 1 Type (example: leggings, joggers, jeans)
+Pant 1 Cost
+Pant 1 Size (example: S, M, L)
+Does pant 1 have pockets? ("true"  or "false")
+//if you want to add more Pants objects, copy the above template for Pants (replacing this comment)
+Shirt 1 Brand
+Shirt 1 Color
+Shirt 1 Type (example: T-shirt, full sleeve, tank top)
+Shirt 1 Cost
+Shirt 1 Size (example: S, M, L)
+Does shirt 1 have a design on it? ("true"  or "false")
+//if you want to add more Shirts objects, copy the above template for Shirts (replacing this comment)
+Shoe 1 Company
+Shoe 1 Color
+Shoe 1 Type (example: Boots, Runners, Slippers)
+Shoe 1 Cost
+Shoe 1 Size (example: 10.5, 8, 11)
+Does shoe 1 have laces? ("true"  or "false")
+//if you want to add more Shoes objects, copy the above template for Shoes (replacing this comment)
+
+**note: this program will only run properly if the number of objects matches the amount of objects initialized
+and objects of the same type are consecutive in the list. For example, you cannot place a Pants object in the middle
+of the Shirts or Shoes objects in the list.

@@ -1,0 +1,51 @@
+2
+3
+3
+Adidas
+Red
+Joggers
+49.99
+S
+false
+Adidas
+Red
+Joggers
+49.99
+S
+false
+Gucci
+Green
+Full Sleeve
+35.99
+L
+true
+Tommy Hilfiger
+Black
+T-Shirt
+16.55
+S
+false
+Tommy Hilfiger
+Black
+T-Shirt
+19.99
+S
+true
+New Balance
+White
+Boots
+74.99
+10
+false
+Nike
+Yellow
+Runners
+99.99
+8.5
+true
+New Balance
+White
+Boots
+74.99
+10
+false
